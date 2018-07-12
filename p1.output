@@ -1,0 +1,118 @@
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: 25
+   Enter position to insert item in: 0
+Item 25 inserted in position 0 in the list.
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: 2
+   Enter position to insert item in: 1
+Item 2 inserted in position 1 in the list.
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: 667
+   Enter position to insert item in: 0
+Item 667 inserted in position 0 in the list.
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: 23
+   Enter position to insert item in: 2
+Item 23 inserted in position 2 in the list.
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: 6
+   Enter position to insert item in: 3
+Item 6 inserted in position 3 in the list.
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 6
+     List of size 5 has the following items: 667 25 23 6 2 
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 4
+Enter search item: 24
+Unsuccessful.
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 4
+Enter search item: 23
+Successful! A match was found at index: 2
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 4
+Enter search item: 669
+Unsuccessful.
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 4
+Enter search item: 0
+Unsuccessful.
+   1. Insert item to list.
+   2. Remove item from list.
+   3. Get item from list.
+   4. Search for a specified item in the list.
+   5. Clear list.
+   6. Print size and content of list. 
+   7. Exit program. 
+Make your menu selection now: 7
+Exiting program... Good Bye!

@@ -1,0 +1,172 @@
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: dave
+Item dave inserted in the list.
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 5
+dave 
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: brooke
+This item was not in the list.
+Item brooke inserted in the list.
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 5
+brooke dave 
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: john
+This item was not in the list.
+Item john inserted in the list.
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 5
+brooke dave john 
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: abbey
+This item was not in the list.
+Item abbey inserted in the list.
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 5
+abbey brooke dave john 
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: cark
+This item was not in the list.
+Item cark inserted in the list.
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 5
+abbey brooke cark dave john 
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 3
+Enter search item: cark
+This item is in the list!
+Item would be placed in 2
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 3
+Enter search item: carl
+This item was not in the list.
+Item would be placed in 3
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: carl
+This item was not in the list.
+Item carl inserted in the list.
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 3
+Enter search item: brooke
+This item is in the list!
+Item would be placed in 1
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 1
+You are now inserting an item into the list.
+   Enter item: zach
+This item was not in the list.
+Item zach inserted in the list.
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 5
+abbey brooke cark carl dave john zach 
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 3
+Enter search item: zach
+This item is in the list!
+Item would be placed in 6
+   1. Insert specified item into list.
+   2. Remove item in specified position in the list.
+   3. Search for a specified item in the list.
+   4. Clear list.
+   5. Display content of list. 
+   6. Exit program. 
+Make your menu selection now: 6
+Exiting program... Good Bye!
